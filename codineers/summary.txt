@@ -1,0 +1,9 @@
+Summary
+Our Problem statement is Smart Waste Collection System and we are designing an andriod application called Rakshati Nisarga .
+
+Phase-1:Today's work
+We designed a home page of the app which includes login of existing users and registration of new users.As soon as the user will register authentication will be done and for that we are using firebase database.
+After login the user can choose the product category which includes E-Waste, Plastic waste, Paper waste and write its description.Along with the category the user have to mention the quantity and weight of the product.For E-Waste, the user have to upload the pictures of the product and will have a pending status until Admin accepts the request.
+
+Phase-2:Tomorrow's work
+The admin will decide whether the product is selected for recycling or not.As soon as the request gets accepted, the firm will send someone to collect product from the user.This will save users cost as well as time. Depending upon the product and its recyclebility condition, the user will get some coupons as an incentive after the product is sent to recycle.The user can also track the status of the product being recycled. 
